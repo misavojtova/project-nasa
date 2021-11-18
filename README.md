@@ -11,7 +11,7 @@
   </a>
 
 <h3 align="center">DISCOVER THE COSMOS</h3>
-  This Project wasbuiltd ina  group of Junior Web Developers for learnipurposesses in Wild Code School. The main idea of the project is fetching data from Nasa API. We created input search bars to search thru Nasa Image Library and search for Astronomy Pictures/Videos accordingthe inpututed The last. Last part of thfocusesject focus on animations and rRedditts to reddit.
+  This Project was build in group of Junior Web Developers for learning puposes in Wild Code School. The main idea of the project is fetching data from Nasa API. We created input search bars to search thru Nasa Image Library and search for Astronomy Pictures/Videos according to inputed date. Last part of the project focus on animations and redirects to reddit.
 
   <p align="center">
     <br />
@@ -34,9 +34,7 @@
 
 ## Project Example
 
-<!-- https://github.com -->
-![ScreenShot](https://raw.github.com/misavojtova/project-nasa/blob/main/src/Assets/Images/mobile-res.png)
-<!-- <img src="./src/assets/images/desktop.png" alt="Logo" width="500" height="450" /> <img src="./src/assets/images/mobile-res.png" alt="Logo" width="250" height="450"> -->
+<img src="./src/assets/images/desktop.png" alt="Logo" width="500" height="450" /> <img src="./src/assets/images/mobile-res.png" alt="Logo" width="250" height="450">
 
 Our Project is `Desktop` and `Mobile Responsive`!
 
