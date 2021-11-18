@@ -7,8 +7,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="./src/assets/images/logo-readme.jpeg" alt="Logo" width="150" height="150">
+    <img src="https://user-images.githubusercontent.com/64092039/142492126-97c94023-ca1c-4aaa-9b44-fc538001c35d.jpg" alt="Logo" width="150" height="150">
   </a>
+
 
 <h3 align="center">DISCOVER THE COSMOS</h3>
   This Project was build in group of Junior Web Developers for learning puposes in Wild Code School. The main idea of the project is fetching data from Nasa API. We created input search bars to search thru Nasa Image Library and search for Astronomy Pictures/Videos according to inputed date. Last part of the project focus on animations and redirects to reddit.
@@ -33,8 +34,11 @@
 </details>
 
 ## Project Example
+<p float="left">
+ <img src="https://user-images.githubusercontent.com/64092039/142490329-3f975696-9dbc-4a20-a20a-8b927c315e0b.png" width="500" height="450" >
+<img src="https://user-images.githubusercontent.com/64092039/142490257-8a91c2ad-607f-4ba7-8051-6d787d437d18.png" width="250" height="450"> 
+</p>
 
-<img src="./src/assets/images/desktop.png" alt="Logo" width="500" height="450" /> <img src="./src/assets/images/mobile-res.png" alt="Logo" width="250" height="450">
 
 Our Project is `Desktop` and `Mobile Responsive`!
 
