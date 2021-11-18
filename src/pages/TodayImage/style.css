@@ -1,0 +1,18 @@
+#img-day {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  min-height: 100vh;
+  max-height: 100vh;
+  font-size: 1.2rem;
+  background: radial-gradient(circle, rgb(0 0 0 / 45%) 0%, rgb(0 0 0 / 0%) 58%);
+}
+
+@media only screen and (max-width: 800px) {
+  #img-day {
+    flex-direction: column;
+    max-height: 130vh;
+    margin: 0;
+  }
+}

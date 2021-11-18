@@ -1,0 +1,26 @@
+/* ** START of Global styles ** */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+@font-face {
+  font-family: "Neogrey";
+  src: local("Neogrey"), url(./fonts/NeogreyRegular.otf) format("truetype");
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: rgb(112, 112, 112);
+}

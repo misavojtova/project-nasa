@@ -1,0 +1,185 @@
+.clear-btn {
+  border: white solid 1px;
+  border-radius: 15px;
+  color: white;
+  background-color: black;
+  padding: 7.5px;
+  cursor: pointer;
+}
+
+.clear-btn:hover {
+  background-color: rgb(6, 4, 99, 0.8);
+  transition: background-color 0.2s ease;
+}
+
+.error {
+  font-size: medium;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ** START of Search Image styles ** */
+
+#search-img {
+  text-align: center;
+  height: 100vh;
+  font-size: 2rem;
+  color: white;
+  margin-top: 10vh;
+  font-family: "Neogrey";
+}
+
+.image-fit-container {
+  display: flex;
+  flex-direction: row;
+  width: 33.33%;
+  flex: 25% 1;
+  max-width: 25%;
+  padding: 0 15px;
+}
+
+.img-card {
+  margin: 7.5px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: rgba(85, 85, 85, 0.466);
+  border: black solid 1px;
+  border-radius: 15px;
+}
+
+.image {
+  vertical-align: middle;
+
+  object-fit: cover;
+  border: 1px rgba(85, 85, 85, 0.466) solid;
+  border-radius: 15px;
+  flex-grow: 1;
+  overflow: hidden;
+  max-height: 30vh;
+}
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 4vh;
+  height: 60vh;
+  width: 100%;
+  overflow: auto;
+  position: static;
+}
+div.image-grid::-webkit-scrollbar-track {
+  background-color: rgba(59, 55, 55, 0.767);
+  border-radius: 10px;
+}
+
+div.image-grid::-webkit-scrollbar-thumb {
+  background-color: rgb(158, 156, 156);
+}
+
+div.image-grid::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(112, 112, 112);
+}
+div.image-grid::-webkit-scrollbar {
+  width: 7px;
+}
+
+.img-search-wrapper {
+  display: flex;
+  width: 100%;
+  position: relative;
+  flex-direction: row;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.img-search-input {
+  margin-left: 1.5rem;
+  margin-top: 2rem;
+  padding: 8px;
+  color: white;
+  border: 1px white solid;
+  border-radius: 15px;
+  background-color: rgba(10, 10, 10, 0.527);
+}
+
+.img-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 100vh;
+  margin: 0 2rem;
+  position: relative;
+}
+
+.img-input-clear-wrap {
+  display: flex;
+  width: 50%;
+}
+
+.img-form-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img-view-btn {
+  background-color: black;
+  color: white;
+  border: solid rgba(85, 85, 85, 0.466) 2px;
+  border-radius: 15px;
+  padding: 7.5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.img-view-btn:hover {
+  background-color: rgb(6, 4, 99, 0.8);
+  transition: background-color 0.2s ease;
+}
+
+.search-img-title {
+  background-color: rgba(0, 0, 0, 0.45);
+  border: rgba(0, 0, 0, 0.45) 0px solid;
+  border-radius: 15px;
+  padding: 0 3px;
+  font-family: "Neogrey";
+}
+.img-search-btn {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+/* ** END of Search Image styles ** */
+/* ** START Search Video styles ** */
+
+@media only screen and (max-width: 600px) {
+  .image-grid {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 40vh;
+  }
+
+  .image-fit-container {
+    display: grid;
+    grid-gap: 1rem;
+    grid-auto-flow: row;
+    margin: 0 35px;
+    justify-content: center;
+  }
+
+  .img-card {
+    display: flex;
+    width: 10rem;
+    max-height: 30vh;
+  }
+}

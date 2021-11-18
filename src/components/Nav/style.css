@@ -1,0 +1,172 @@
+.nav-circle {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.nav-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  position: fixed;
+  top: 1vh;
+  right: 1vw;
+  height: 9vh;
+  width: 9vh;
+  border-radius: 50%;
+  list-style: none;
+  background-color: rgb(6, 4, 99);
+  z-index: 10;
+}
+.logo-wrap {
+  position: absolute;
+  top: 0;
+  left: 1.5vw;
+}
+
+.logo {
+  height: auto;
+  width: 8rem;
+  position: fixed;
+  top: 2vh;
+  z-index: 10;
+}
+
+.title-wrap {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  font-family: Neogrey;
+  font-size: 2.5rem;
+}
+
+.home-nav {
+  border-bottom: 0.4vh solid rgb(1 0 1);
+}
+.ham-menu {
+  border-top: 0.4vh solid rgb(1 0 1);
+}
+
+.drop-icon-position {
+  position: fixed;
+  top: 10vh;
+  right: 1.5vw;
+  text-align: -webkit-right;
+  height: 10vh;
+  width: 8%;
+  z-index: 9;
+}
+
+.nav-icon-drop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5vh;
+  width: 6vh;
+  height: 6vh;
+  border-radius: 50%;
+  background-color: rgba(24, 24, 23, 0.973);
+  transition: transform 0.2s ease-in-out;
+}
+.nav-icon-drop:hover {
+  background-color: rgb(253 252 255);
+  transform: scale(1.05);
+  color: rgba(24, 24, 23, 0.973);
+}
+
+.home-nav svg,
+.ham-menu svg,
+.nav-icon-drop {
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+  font-size: 1.8rem;
+  vertical-align: middle;
+}
+
+/* ** End of Navbar styles ** */
+
+/* ALL THE WAY TO 600 MOBILE*/
+@media only screen and (max-width: 600px) {
+  /* ** START of NavBar styles ** */
+  .home-nav {
+    display: none;
+  }
+  .ham-menu {
+    border-top: none;
+  }
+  .drop-icon-position {
+    background-color: #000000e1;
+    padding: 0;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .nav-list {
+    background-color: transparent;
+    top: 0vh;
+    right: 3vw;
+  }
+  .icons-wrapper {
+    width: 220px;
+    min-width: 200px;
+  }
+  .nav-icon-drop {
+    /* font-family: monospace; */
+    background-color: transparent;
+    justify-content: space-between;
+    padding: 0.2rem 0.5rem;
+    width: auto;
+    height: auto;
+    font-size: 1.4rem;
+    border-radius: 10px;
+    margin-top: 1.5rem;
+    transition: border 0.2s ease;
+    transition: transform 0.2s ease-in-out;
+  }
+  .nav-icon-drop:hover {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    transform: scale(1.1);
+  }
+  .nav-icon-drop svg {
+    font-size: 2rem;
+    vertical-align: middle;
+  }
+  .nav-icon-drop {
+    border-bottom: 4px solid rgb(36 34 127);
+  }
+
+  .nav-icon-drop:nth-of-type(1)::before {
+    font-size: 1.2rem;
+    content: "Go Home";
+  }
+
+  .nav-icon-drop:nth-of-type(2)::after {
+    font-size: 1.2rem;
+    content: "Search Images";
+  }
+
+
+  .nav-icon-drop:nth-of-type(3)::before {
+    font-size: 1.2rem;
+    content: "Input Date";
+  }
+
+  .nav-icon-drop:nth-of-type(4)::after{
+    font-size: 1.2rem;
+    content: "Go Reddit";
+  }
+}

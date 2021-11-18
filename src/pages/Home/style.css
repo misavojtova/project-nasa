@@ -1,0 +1,16 @@
+/* ** START of Home Page styles** */
+#home {
+  text-align: center;
+  height: 100vh;
+  font-size: 100%;
+  color: white;
+}
+
+.title {
+  font-size: 45px;
+}
+/* ** END of Home Page styles ** */
+
+.fetch-img-search {
+  max-width: 90vw;
+}
