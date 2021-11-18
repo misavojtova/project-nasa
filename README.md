@@ -33,7 +33,7 @@
 </details>
 
 ## Project Example
-
+![ScreenShot](https://raw.github.com/misavojtova/project-nasa/blob/main/src/Assets/Images/mobile-res.png
 <img src="./src/assets/images/desktop.png" alt="Logo" width="500" height="450" /> <img src="./src/assets/images/mobile-res.png" alt="Logo" width="250" height="450">
 
 Our Project is `Desktop` and `Mobile Responsive`!
