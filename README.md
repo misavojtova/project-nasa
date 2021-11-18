@@ -12,14 +12,11 @@
 
 
 <h3 align="center">DISCOVER THE COSMOS</h3>
-  This Project was build in group of Junior Web Developers for learning puposes in Wild Code School. The main idea of the project is fetching data from Nasa API. We created input search bars to search thru Nasa Image Library and search for Astronomy Pictures/Videos according to inputed date. Last part of the project focus on animations and redirects to reddit.
+  This Project wasbuiltd ina  group of Junior Web Developers for learnipurposesses in Wild Code School. The main idea of the project is fetching data from Nasa API. We created input search bars to search thru Nasa Image Library and search for Astronomy Pictures/Videos accordingthe inpututed The last. Last part of thfocusesject focus on animations and redirects to Reddit.
 
   <p align="center">
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://youthful-mcnulty-cc730a.netlify.app/?fbclid=IwAR3hVHBUPpSnLOiwH9ovIjSRHCXHiuRD6Ve_xasdFuA6mRbu57OFCEkio0g">View Demo</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
