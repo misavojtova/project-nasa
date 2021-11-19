@@ -1,5 +1,5 @@
 import React from "react";
-import PlanetVideo from "../Assets/videos/planet-video2.mp4";
+import PlanetVideo from "../assets/videos/planet-video2.mp4";
 
 function BackgroundVideo() {
   return (
