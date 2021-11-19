@@ -143,17 +143,6 @@
   transition-duration: 0ms;
 }
 
-.card-content > *:not(.card-title) {
-  opacity: 1;
-  transition: opacity 500ms linear;
-}
-
-.card:hover .card-content > *:not(.card-title),
-.card:focus-within .card-content > *:not(.card-title) {
-  opacity: 1;
-  transition-delay: 1000ms;
-}
-
 .card-title::after {
   transform: scaleX(0);
 }
@@ -168,7 +157,7 @@
     linear-gradient(transparent, transparent, #0004);
 
   transform-origin: center;
-  transform: perspective(800px) rotateY(25deg);
+
   transition: 0.5s;
   border-radius: 1.5rem;
 }
