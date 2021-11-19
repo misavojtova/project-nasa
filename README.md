@@ -32,8 +32,8 @@ This Project was built by a group of Junior Web Developers for learning purposes
 
 ## Project Example
 <p float="left">
- <img src="https://user-images.githubusercontent.com/64092039/142490329-3f975696-9dbc-4a20-a20a-8b927c315e0b.png" width="500" height="450" >
-<img src="https://user-images.githubusercontent.com/64092039/142490257-8a91c2ad-607f-4ba7-8051-6d787d437d18.png" width="250" height="450"> 
+ <img src="https://user-images.githubusercontent.com/64092039/142490329-3f975696-9dbc-4a20-a20a-8b927c315e0b.png" width="500" height="500" >
+<img src="https://user-images.githubusercontent.com/64092039/142490257-8a91c2ad-607f-4ba7-8051-6d787d437d18.png" width="250" height="500"> 
 </p>
 
 
