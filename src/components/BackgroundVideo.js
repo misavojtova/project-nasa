@@ -14,7 +14,7 @@ function BackgroundVideo() {
           width: "100%",
           left: "50%",
           top: "50%",
-          height: "100vh",
+          height: "100%",
           objectFit: "cover",
           transform: "translate(-50%, -50%)",
           display: "flex",

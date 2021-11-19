@@ -229,6 +229,7 @@
   .card {
     width: 80vw;
     height: 28vh;
+    max-height: 24vh;
     right: calc(50% - 40vw);
     bottom: calc(75% - 15vh);
     transform: none;
@@ -238,6 +239,7 @@
     display: flex;
     width: 80vw;
     height: 28vh;
+    max-height: 24vh;
     right: calc(50% - 40vw);
     bottom: calc(75% - 15vh);
     transform: none;
@@ -258,7 +260,7 @@
   .button-card-container {
     position: relative;
     width: auto;
-    top: 40%;
+    top: 41%;
     text-align: center;
     text-align: -webkit-center;
   }
