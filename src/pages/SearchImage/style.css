@@ -95,6 +95,12 @@ div.image-grid::-webkit-scrollbar {
   align-items: baseline;
 }
 
+.clear-search-glass {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
 .img-search-input {
   margin-left: 1.5rem;
   margin-top: 2rem;
@@ -155,6 +161,7 @@ div.image-grid::-webkit-scrollbar {
   font: inherit;
   cursor: pointer;
   outline: inherit;
+  margin-left: 15px;
 }
 
 /* ** END of Search Image styles ** */
