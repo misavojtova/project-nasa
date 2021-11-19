@@ -14,7 +14,7 @@ function Card({ handleChangeCards }) {
         <div className="card-content">
           <h2 className="card-title">Hover the Black Hole</h2>
           <br />
-          <h3 className="card-title-mobile">Black Hole</h3>
+          <h3 className="card-title-mobile">Click the Black Hole</h3>
           <br />
           <p className="card-body">
             Click Visit to display a few more topics to feed your knowledge
