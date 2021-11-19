@@ -88,6 +88,6 @@ João Meirinho
 - [GitHub](https://github.com/joaotcmeirinho)
 - [Email](jmeiradas@gmail.com)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/misavojtova/project-nasa](https://github.com/misavojtova/project-nasa)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
