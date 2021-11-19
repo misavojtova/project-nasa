@@ -238,6 +238,7 @@
     max-height: 24vh;
     right: calc(50% - 40vw);
     bottom: calc(75% - 15vh);
+    transform: translateX(0px);
   }
 
   .card-title {
@@ -311,6 +312,7 @@
     height: 28vh;
     right: calc(50% - 40vw);
     bottom: calc(75% - 15vh);
+    transform: translateX(0px);
   }
 
   .container-display2 {
