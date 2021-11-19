@@ -7,6 +7,10 @@
   font-family: monospace;
 }
 
+:root {
+  background-color: black;
+}
+
 @font-face {
   font-family: "Neogrey";
   src: local("Neogrey"), url(./fonts/NeogreyRegular.otf) format("truetype");
