@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project-nasa/static/css/main.86d629ae.chunk.css",
+    "main.js": "/project-nasa/static/js/main.af1978e8.chunk.js",
+    "main.js.map": "/project-nasa/static/js/main.af1978e8.chunk.js.map",
+    "runtime-main.js": "/project-nasa/static/js/runtime-main.d2c847f0.js",
+    "runtime-main.js.map": "/project-nasa/static/js/runtime-main.d2c847f0.js.map",
+    "static/js/2.4e69754c.chunk.js": "/project-nasa/static/js/2.4e69754c.chunk.js",
+    "static/js/2.4e69754c.chunk.js.map": "/project-nasa/static/js/2.4e69754c.chunk.js.map",
+    "index.html": "/project-nasa/index.html",
+    "static/css/main.86d629ae.chunk.css.map": "/project-nasa/static/css/main.86d629ae.chunk.css.map",
+    "static/js/2.4e69754c.chunk.js.LICENSE.txt": "/project-nasa/static/js/2.4e69754c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/project-nasa/static/media/NeogreyRegular.562523e7.otf",
+    "static/media/nasa-logo.e020c1b5.png": "/project-nasa/static/media/nasa-logo.e020c1b5.png",
+    "static/media/style.css": "/project-nasa/static/media/nasa.1942998e.jpg",
+    "static/media/planet-video2.a0c14111.mp4": "/project-nasa/static/media/planet-video2.a0c14111.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2c847f0.js",
+    "static/js/2.4e69754c.chunk.js",
+    "static/css/main.86d629ae.chunk.css",
+    "static/js/main.af1978e8.chunk.js"
+  ]
+}
