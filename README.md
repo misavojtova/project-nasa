@@ -17,6 +17,9 @@ This Project was built by a group of Junior Web Developers for learning purposes
   <p align="center">
     <br />
     <a href="https://misavojtova.github.io/project-nasa/">View Demo</a>
+    <br />
+     <br />
+    <a href="https://github.com/WildCodeSchool/2021-09-lisbon-webdev-project2-group5">Original Project Repository</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
