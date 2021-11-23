@@ -12,11 +12,14 @@
 
 
 <h3 align="center">DISCOVER THE COSMOS</h3>
-This Project was built by a group of Junior Web Developers for learning purposes at Wild Code School. The main idea of the project is fetching data from NASA API. We created an input search bar to search through NASA Image Library and search for Astronomy Pictures/Videos according to an input date. Last part of the project focuses on animations and redirects to Reddit.
+This Project was built by a group of Junior Web Developers for learning purposes at Wild Code School. The main idea of the project is fetching data from <a href="https://api.nasa.gov/">NASA API</a>. We created an input search bar to search through NASA Image Library and search for Astronomy Pictures/Videos according to an input date. Last part of the project focuses on animations and redirects to Reddit.
 
   <p align="center">
     <br />
     <a href="https://misavojtova.github.io/project-nasa/">View Demo</a>
+    <br />
+     <br />
+    <a href="https://github.com/WildCodeSchool/2021-09-lisbon-webdev-project2-group5">Original Project Repository</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
