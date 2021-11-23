@@ -16,6 +16,7 @@ export function FetchTodayContextProvider({ children }) {
     fetchData();
     async function fetchData() {
       // BACKEND API
+
       // const apiUrl = process.env.REACT_APP_API_URL;
       // console.log(process.env);
       // console.log(`${apiUrl}/${trackValue}`);
