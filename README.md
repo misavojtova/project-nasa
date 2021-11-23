@@ -12,7 +12,7 @@
 
 
 <h3 align="center">DISCOVER THE COSMOS</h3>
-This Project was built by a group of Junior Web Developers for learning purposes at Wild Code School. The main idea of the project is fetching data from NASA API. We created an input search bar to search through NASA Image Library and search for Astronomy Pictures/Videos according to an input date. Last part of the project focuses on animations and redirects to Reddit.
+This Project was built by a group of Junior Web Developers for learning purposes at Wild Code School. The main idea of the project is fetching data from <a href="https://api.nasa.gov/">NASA API</a>. We created an input search bar to search through NASA Image Library and search for Astronomy Pictures/Videos according to an input date. Last part of the project focuses on animations and redirects to Reddit.
 
   <p align="center">
     <br />
